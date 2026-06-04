@@ -14,7 +14,7 @@ We don't guess. We execute.
 
 ## What Is Trade By Second?
 
-**Trade By Second** is an interactive trading service and web platform built around one core truth: **speed + precision = consistent returns**. Every component of this system — from signal generation to position management — is designed to remove human emotion from the equation and replace it with algorithmic certainty.
+**Trade By Second** is an interactive trading service and web platform built around one core truth: **speed + precision = disciplined execution**. Every component of this system — from signal generation to position management — is designed to remove human emotion from the equation and replace it with algorithmic precision.
 
 This is not a copy-trading app. This is not a signal group. This is a **professional-grade trading infrastructure** made accessible through tiered subscription levels — so whether you're scaling a personal portfolio or deploying institutional capital, there's a level built for your operation.
 
@@ -24,7 +24,7 @@ This is not a copy-trading app. This is not a signal group. This is a **professi
 
 - **Execution at the second level** — not minute candles, not delayed alerts. Second-resolution timing where edge lives.
 - **Emotion-free position management** — the system enters, manages, and exits based on rule sets, not feelings.
-- **Transparent return metrics** — we publish our numbers. You see exactly what the system produces before you commit capital.
+- **Transparent performance metrics** — we publish our historical system data. You see what the system has produced before you commit capital.
 - **Scalable subscription tiers** — start where you are, scale as you grow. The system adapts to your capital size and risk tolerance.
 - **Powered by proprietary infrastructure** — built on the De-ASI-INTERFACE technology stack, continuously developed and refined.
 
@@ -32,13 +32,34 @@ This is not a copy-trading app. This is not a signal group. This is a **professi
 
 ## Subscription Tiers
 
-| Tier | Description | Target User |
-|------|-------------|-------------|
-| 🔹 **Pulse** | Signal access + performance dashboard | Individual retail traders scaling up |
-| 🔸 **Core** | Full automation + portfolio integration + priority alerts | Active traders managing $10K–$100K |
-| 🔺 **Prime** | Custom configuration + direct strategy access + dedicated support | Professional traders & fund operators |
+| Plan | Monthly Fee | Account Size | Includes |
+|------|-------------|--------------|----------|
+| 🔹 **Starter** | $55/mo | Up to $500 | Full platform access, signal feed |
+| 🔸 **Growth** | $75/mo | $500 – $1,500 | Priority support, performance dashboard |
+| 🔺 **Advanced** | $100/mo | $1,500 – $5,000 | Advanced analytics, strategy insights |
+| ⬛ **Professional** | $300–$1,000/mo | $5,000+ | Dedicated account manager, custom configuration |
 
-> *Detailed tier pricing, return benchmarks, and onboarding steps are available through the live platform. Reach out to begin your discovery consultation.*
+> *Professional tier pricing varies by account size and scope. Contact us to begin your discovery consultation.*
+
+---
+
+## 📚 Educational Sessions
+
+**$50 per session** — 45-minute comprehensive deep-dives into our trading strategies and market frameworks.
+
+- ✓ Live instruction with Q&A
+- ✓ Webinars and interactive classes
+- ✓ Learn directly from experienced system builders
+
+---
+
+## Educational Resources
+
+- Live Webinars
+- Interactive Tutorials
+- Live Q&A Sessions
+- Market Analysis Tools
+- Strategy Workshops
 
 ---
 
@@ -58,7 +79,7 @@ We are the systematic approach.
 1. Subscribe → Select your tier based on capital and goals
 2. Onboard  → Connect your exchange account or receive signal feed
 3. Execute  → System monitors markets at the second level 24/7
-4. Scale    → Review performance data, adjust tier, compound returns
+4. Scale    → Review performance data, adjust tier, compound over time
 ```
 
 The entire workflow is designed to remove friction between capital and opportunity. You define the parameters. The system does the work.
@@ -83,17 +104,20 @@ If you're still trading on intuition alone, this system will challenge everythin
 
 ---
 
-## Get Started
+## Contact Us
+
+📞 +1 234 544 6340
+𝕏 (Twitter): [@tradybysec](https://twitter.com/tradybysec)
 
 **Ready to trade at the speed markets actually move?**
 
-📩 Reach out through GitHub or the live platform to begin your consultation.  
-🔗 [De-ASI-INTERFACE GitHub Organization](https://github.com/De-ASI-INTERFACE)  
+📩 Reach out through GitHub or the live platform to begin your consultation.
+🔗 [De-ASI-INTERFACE GitHub Organization](https://github.com/De-ASI-INTERFACE)
 ⚡ Built in Ohio. Engineered for global markets.
 
 ---
 
-> *Trade By Second is an active trading intelligence service. All performance data reflects historical system behavior. Past results are presented for informational purposes. Trading involves risk; deploy capital responsibly.*
+> *Trade By Second is an active trading intelligence service. All performance data reflects historical system behavior and is provided for informational purposes only. Trading in financial markets, including cryptocurrency, involves significant risk and may not be suitable for all investors. Past performance is not indicative of future results. Never deploy capital you cannot afford to lose.*
 
 ---
 
