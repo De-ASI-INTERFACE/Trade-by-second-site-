@@ -1,3 +1,4 @@
+import React from 'react';
 import type { FC } from 'react';
 import { TIERS, STATS, HOW_IT_WORKS } from '@/data/content';
 
@@ -49,7 +50,10 @@ const TiersSection: FC = () => (
       </p>
       <div className="grid md:grid-cols-3 gap-8">
         {TIERS.map((tier) => (
-          <div key={tier.name} className={`card p-8 flex flex-col ${tier.featured ? 'border-brand-gold' : ''}` }>
+          <div
+            key={tier.name}
+            className={`card p-8 flex flex-col${tier.featured ? ' border-brand-gold' : ''}`}
+          >
             <p className="text-2xl mb-1">{tier.icon}</p>
             <h3 className="text-2xl font-bold mb-2">{tier.name}</h3>
             <p className="text-brand-accent font-bold text-xl mb-4">{tier.price}</p>

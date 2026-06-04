@@ -1,3 +1,4 @@
+import React from 'react';
 import type { Metadata } from 'next';
 import './globals.css';
 
@@ -16,7 +17,8 @@ export const metadata: Metadata = {
   authors: [{ name: 'Richard Patterson', url: 'https://github.com/De-ASI-INTERFACE' }],
   openGraph: {
     title: 'Trade By Second',
-    description: 'Precision-timed trading intelligence. Built for those who understand that a single second is the difference between alpha and noise.',
+    description:
+      'Precision-timed trading intelligence. Built for those who understand that a single second is the difference between alpha and noise.',
     type: 'website',
   },
 };
