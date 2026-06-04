@@ -1,4 +1,4 @@
-name: Release & Deploy
+name: Release
 
 on:
   push:
@@ -7,15 +7,13 @@ on:
 
 jobs:
   release:
-    name: Create GitHub Release
+    name: Create Release
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
+        uses: actions/checkout@v4
 
       - name: Setup Node.js 20
         uses: actions/setup-node@v4
@@ -23,14 +21,15 @@ jobs:
           node-version: '20'
           cache: 'npm'
 
-      - name: Install & Build
-        run: |
-          npm ci --prefer-offline
-          npm run build
+      - name: Install dependencies
+        run: npm install
 
-      - name: Generate Release Notes
-        uses: softprops/action-gh-release@v3
+      - name: Build
+        run: npm run build
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
-          draft: false
-          prerelease: ${{ contains(github.ref, '-beta') || contains(github.ref, '-alpha') }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
